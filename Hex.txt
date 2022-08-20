@@ -1,0 +1,2 @@
+Primary : #28457b (Dark Blue)
+Secondary: #19709f (Fade Blue) 
